@@ -29,6 +29,4 @@ laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et qu
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
 
-
-![](images/portfolio/item-2.png)
 ---
