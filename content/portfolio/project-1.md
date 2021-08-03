@@ -7,7 +7,6 @@ project_url : "https://themefisher.com/"
 categories: ["design","development"]
 description: "This is meta description."
 draft: false
-image: "images/portfolio/item-1.png"
 ---
 
 #### Project Requirements
@@ -30,7 +29,6 @@ laudantium, totam rem aperiam, eaque ipsa quae ab illo inventore veritatis et qu
 dicta sunt explicabo. Nemo enim ipsam voluptatem quia voluptas sit aspernatur aut odit aut fugit, sed quia
 consequuntur magni dolores eos qui ratione voluptatem sequi nesciunt. Neque porro quisquam est.
 
----
 
 image: "images/portfolio/item-1.png"
 ---
