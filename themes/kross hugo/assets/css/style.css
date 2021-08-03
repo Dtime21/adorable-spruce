@@ -344,7 +344,7 @@ a:hover {
 }
 
 .shadow {
-  box-shadow: 10 18px 39.1px 6.9px rgba(224, 241, 255, .34) !important
+  box-shadow: 0 18px 39.1px 6.9px rgba(224, 241, 255, .34) !important
 }
 
 .bg-dark {
