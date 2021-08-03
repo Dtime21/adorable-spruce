@@ -17,5 +17,5 @@ Scrivo quello che mi pare riguardo il progetto
 
 Proseguo indicando i dettagli del lavoro, aggiungendo poi foto con didascalie
 
-![Drag Racing](/images/portfolio/item-2.png)
+![](/images/portfolio/item-2.png)
 ---
