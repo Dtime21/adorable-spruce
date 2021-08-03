@@ -20,5 +20,3 @@ Proseguo indicando i dettagli del lavoro, aggiungendo poi foto con didascalie
 ![](/images/portfolio/item-2.png)
 
 Proseguo indicando i dettagli del lavoro, aggiungendo poi foto con didascalie
-
----
