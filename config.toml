@@ -9,7 +9,7 @@ publishDir = "public"
 [params]
 home = "Home"
 logo = ""
-theme_color = "#41228e"
+theme_color = "#EDEDED"
 phone = "+880 2544 658 256"
 email = "steve.fruits@email.com"
 address = "125/A, CA Commercial Area, California, USA"
