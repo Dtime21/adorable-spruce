@@ -22,7 +22,7 @@ mollit anim id est laborum.
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
 ![](static/images/portfolio/item-2.png)
-![Drag Racing](images/portfolio/item-2.png)
+![Drag Racing](static/images/portfolio/item-2.png)
 
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
 ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat
