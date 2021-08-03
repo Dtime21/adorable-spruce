@@ -6,7 +6,7 @@ client: "John Doe"
 project_url : "https://themefisher.com/"
 categories: ["design","development"]
 description: "This is meta description."
-draft: true
+draft: false
 ---
 
 #### Project Requirements
