@@ -21,7 +21,7 @@ mollit anim id est laborum.
 #### Project Details
 
 Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et
-![](images/portfolio/item-2.png)
+![](static/images/portfolio/item-2.png)
 ![Drag Racing](images/portfolio/item-2.png)
 
 dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex
