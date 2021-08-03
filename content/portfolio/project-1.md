@@ -13,7 +13,7 @@ draft: true
 
 Scrivo quello che mi pare riguardo il progetto
 
-##### Project Details
+#### Project Details
 
 Proseguo indicando i dettagli del lavoro, aggiungendo poi foto con didascalie
 
