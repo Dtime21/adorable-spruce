@@ -32,7 +32,7 @@ skill:
       progress : "70%"
       color : "#ffbcaa"
 
-# experience
+# Esperienze
 experience:
   enable : true
   title : "Experience"
