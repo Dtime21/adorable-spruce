@@ -82,10 +82,10 @@ URL = "about"
 name = "About"
 weight = 1
 
-[[menu.main]]
-URL = "blog"
-name = "Blog"
-weight = 2
+#[[menu.main]]
+#URL = "blog"
+#name = "Blog"
+#eight = 2
 
 [[menu.main]]
 URL = "portfolio"
