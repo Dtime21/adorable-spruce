@@ -101,7 +101,7 @@ portfolio:
   # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
-testimonial:
+#testimonial:
   enable : true
   title : "Testimonials"
   item:
