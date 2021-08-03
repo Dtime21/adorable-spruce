@@ -8,7 +8,7 @@ publishDir = "public"
 
 [params]
 home = "Home"
-logo = "\static\images\about\dtime.png"
+logo = "/static/images/about/dtime.png"
 theme_color = "#212121"
 phone = "+880 2544 658 256"
 email = "steve.fruits@email.com"
