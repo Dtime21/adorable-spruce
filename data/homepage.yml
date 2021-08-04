@@ -69,9 +69,9 @@ education:
       year : "2000"
       academy : "Cardiff School"
       
-    - title : "Secondary School Certificate"
-      year : "1998"
-      academy : "Cardiff School"
+    - title : "Diploma Superiore come Perito Informatico"
+      year : "2014"
+      academy : "IIS Volterra Elia, AN"
 
 # service
 service:
