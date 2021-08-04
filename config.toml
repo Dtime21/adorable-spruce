@@ -9,7 +9,7 @@ publishDir = "public"
 [params]
 home = "Home"
 logo = "images/about/DARIDIMENSIONARE CON SITO"
-theme_color = "#212121"
+theme_color = "#EDEDED"
 phone = "+880 2544 658 256"
 email = "steve.fruits@email.com"
 address = "125/A, CA Commercial Area, California, USA"
