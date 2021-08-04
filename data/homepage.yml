@@ -31,13 +31,6 @@ skill:
     - title : "Web App"
       progress : "70%"
       color : "#ffbcaa"
-      
-# portfolio
-portfolio:
-  enable : true
-  title : "Portfolio"
-  item_show : 5
-  # portfolio item comes from 'data/portfolio.yml' item.
 
 # Experience
 experience:
@@ -100,6 +93,12 @@ service:
       content : "Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua."
       highlighted : false
 
+# portfolio
+portfolio:
+  enable : true
+  title : "Portfolio"
+  item_show : 5
+  # portfolio item comes from 'data/portfolio.yml' item.
 
 # testimonial
 testimonial:
