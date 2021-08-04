@@ -60,7 +60,18 @@ education:
     - title : "Master in Graphic Design"
       year : "2019 - 2021"
       academy : "ACCA Academy, Jesi (AN)"
-
+      
+    - title : "Honours in Fine Arts"
+      year : "2004"
+      academy : "Harvard University"
+      
+    - title : "Higher Secondary Certificat"
+      year : "2000"
+      academy : "Cardiff School"
+      
+    - title : "Secondary School Certificate"
+      year : "1998"
+      academy : "Cardiff School"
 
 # service
 service:
