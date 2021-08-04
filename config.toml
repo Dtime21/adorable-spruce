@@ -79,7 +79,7 @@ link = "plugins/google-map/map.js"
 
 [[menu.main]]
 URL = "about"
-name = "About"
+name = "Chi Sono"
 weight = 1
 
 #[[menu.main]]
