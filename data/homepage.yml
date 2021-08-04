@@ -27,7 +27,10 @@ skill:
     - title : "After Effects"
       progress : "80%"
       color : "#bdecf6"
-
+      
+    - title : "Web App"
+      progress : "70%"
+      color : "#ffbcaa"
 
 # Experience
 experience:
