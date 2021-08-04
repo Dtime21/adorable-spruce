@@ -1,6 +1,6 @@
 # work process
 work_process:
-  enable : false
+  enable : true
   title : "Work Process"
   item:
   - title : "Research and Plan"
