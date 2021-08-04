@@ -15,6 +15,7 @@ about:
 skill:
   enable : true
   title : "Skills"
+  subtitle: "adb"
   item:
     - title : "Logo Design"
       progress : "70%"
